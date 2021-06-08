@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요! 코생아 성재훈입니다!!!!👋
 
 <!--
 **Seongjaehun/Seongjaehun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
